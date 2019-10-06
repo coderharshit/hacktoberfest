@@ -8,4 +8,4 @@
 
 ### About You :boy:
 
-Anything about yourself!
+I am fullstack developer.
