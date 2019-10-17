@@ -32,11 +32,11 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### Introduction :sunglasses:
 
-**Your name**: Harshit Bhalla
+**Your name**: Divyansh jain
 
-**Your GitHub id**: [@coderharshit](https://github.com/coderharshit)
+**Your GitHub id**: [@divyansh](https://github.com/dj218)
 
-**Your location**: Ambala City
+**Your location**: Ajmer City
 
 ### About You :boy:
 
