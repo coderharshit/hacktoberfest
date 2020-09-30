@@ -1,4 +1,4 @@
-# hacktoberfest-2019 :rocket:
+# hacktoberfest-2019 An Amazing Project :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
 
 # What is Hacktoberfest?
