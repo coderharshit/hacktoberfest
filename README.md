@@ -48,7 +48,7 @@ ___
 ### Give this Project a Star :star:
 
 If you liked working on this project, please share this project as much 
-as you can and star this project to help as many people in opensource as you can.
+as you can and star this project to help as many people in open source as you can.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
