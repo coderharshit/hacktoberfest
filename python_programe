@@ -1,0 +1,22 @@
+from collections import Counter   
+def checkInFirst(a, b): 
+    count_a = Counter(a) 
+    count_b = Counter(b) 
+  
+    for key in count_b: 
+        if key not in  count_a: 
+            return False
+        if count_b[key] > count_b[key]: 
+            return False
+    return True
+  
+a = [1,5,6,4,1,2,3,5] 
+#a1 = [1,5,6,5,1,2,3,6]
+b = [1,1,5] 
+  
+res = checkInFirst(a, b) 
+  
+if res==True : 
+    print ("It's a match.") 
+else : 
+    print ("It's Gone.")
